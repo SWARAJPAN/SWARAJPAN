@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @SWARAJPAN
 - 👀 I’m interested in ... Frontend Development
 - 🌱 I’m currently learning ... MERN stack
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... swarajpanpan@gmail.com
+- 📫 How to reach me ... swarajpanpan@gmail.com // https://www.linkedin.com/in/swaraj-panthi/
 
 <!---
 SWARAJPAN/SWARAJPAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
